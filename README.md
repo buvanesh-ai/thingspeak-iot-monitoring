@@ -1,4 +1,4 @@
- ThingSpeak IoT Monitoring Projects
+ThingSpeak IoT Monitoring Projects
 
 A collection of IoT sensor monitoring projects using **ThingSpeak** for cloud-based data storage, visualization, and monitoring.
 
@@ -67,20 +67,4 @@ Through these projects, I gained hands-on experience with:
 
 API keys, Wi-Fi passwords, and other private credentials are not included in this repository.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Developed as part of my **Embedded Systems & IoT internship at Chase Technol
+Developed as part of my **Embedded Systems & IoT internship at Chase Technologies**.
