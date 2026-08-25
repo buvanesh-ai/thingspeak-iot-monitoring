@@ -68,4 +68,20 @@ Through these projects, I gained hands-on experience with:
 API keys, Wi-Fi passwords, and other private credentials are not included in this repository.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Developed as part of my **Embedded Systems & IoT internship at Chase Technol
