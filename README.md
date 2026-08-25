@@ -83,5 +83,4 @@ API keys, Wi-Fi passwords, and other private credentials are not included in thi
 
 
 
-
 Developed as part of my **Embedded Systems & IoT internship at Chase Technol
